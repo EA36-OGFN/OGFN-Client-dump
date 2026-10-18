@@ -1,10 +1,3 @@
-# Online Tests
-| Build | Download links |
-| :--- | :--- |
-| OT6.5-CL-2870186 | [download]() |
-| OT10.?-CL-NaN | [download]() Only usable on a jailbroken PS4, emulator doesnt work either! |
-| OT11-CL-NaN | Xbox [download]() ; PC Extract [download]() |
-
 # Pre-BattleRoyale
 | Build | Download links |
 | :--- | :--- |
