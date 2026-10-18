@@ -8,13 +8,13 @@ I'm gonna drop all the fully analyzed IDA files right here
 | Build | Download links |
 | :--- | :--- |
 | Cert-CL-3532353 | [download]() |
-| 1.2-CL-3541083 | [download]() ; [download]() |
+| 1.2-CL-3541083 | [download]()  |
 
 # Season 0 & 1
 | Build | Download links |
 | :--- | :--- |
 | 1.7.2-CL-3700114 | [download]() |
-| 1.8-CL-3724489 | [download]() ; [download]() |
+| 1.8-CL-3724489 | [download]()  |
 | 1.8.1-CL-3729133 | [download]() |
 | 1.8.2-CL-3741772 | [download]() |
 | 1.9-CL-3757339 | [download]() |
@@ -40,7 +40,7 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 3.1.1-CL-3917250 | [download]() |
 | 3.2-CL-3935073 | [download]() |
 | 3.3-CL-3942182 | [download]() |
-| 3.5-CL-4008490 | [download]() ; [download]() |
+| 3.5-CL-4008490 | [download]()  |
 | 3.5.1-CL-4000805 | [download]() |
 | 3.5.2-CL-4008490 | [download]() |
 | 3.6-CL-4019403 | [download]() |
@@ -114,7 +114,7 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 9.01-CL-6428087 | [download]() |
 | 9.10-CL-6573057 | [download]() |
 | 9.10-CL-6639283 | [download]() |
-| 9.20-CL-6822798 | [download]() UPDATED ! |
+| 9.20-CL-6822798 | [download]() |
 | 9.21-CL-6922310 | [download]() |
 | 9.30-CL-7095426 | [download]() |
 | 9.40-CL-7315705 | [download]() |
@@ -145,20 +145,20 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 11.30-CL-10708866 | [download]() |
 | 11.31-CL-10800459 | [download]() |
 | 11.40-CL-11039906 | [download]() |
-| 11.50-CL-10899158 | [download]() ; [download]() |
+| 11.50-CL-10899158 | [download]() |
 | 11.50-CL-11265652 | [download]() |
 
 # Season 12
 | Build | Download links |
 | :--- | :--- |
 | 12.00-CL-11586896 | [download]() |
-| 12.10-CL-11883027 | [download]() ; [download]() If [1] doesn't work, use [2] |
+| 12.10-CL-11883027 | [download]() |
 | 12.20-CL-12170032 | [download]() |
 | 12.21-CL-12353830 | [download]() |
 | 12.30-CL-12493283 | [download]() |
 | 12.30-CL-12624643 | [download]() |
 | 12.40-CL-12837456 | [download]() |
-| 12.41-CL-12905909 | [download]() ; [download]() ; [download]() ; [download]() |
+| 12.41-CL-12905909 | [download]() |
 | 12.50-CL-13137020 | [download]() |
 | 12.60-CL-13315662 | [download]() |
 | 12.61-CL-13498980 | [download]() |
@@ -179,9 +179,9 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 14.10-CL-14312695 | [download]() |
 | 14.20-CL-14384759 | [download]() |
 | 14.30-CL-14456520 | [download]() |
-| 14.40-CL-14550713 | [download]() ; [download]() |
+| 14.40-CL-14550713 | [download]() |
 | 14.50-CL-14643651 | [download]() |
-| 14.60-CL-14786821 | [download]() ; [download]() |
+| 14.60-CL-14786821 | [download]() |
 
 # Season 15
 | Build | Download links |
@@ -192,7 +192,7 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 15.20-CL-15070882 | [download]() |
 | 15.21-CL-15083856 | [download]() |
 | 15.30-CL-15341163 | [download]() |
-| 15.50-CL-15570449 | [download]() ; [download]() |
+| 15.50-CL-15570449 | [download]() |
 
 # Season 16
 | Build | Download links |
@@ -200,7 +200,7 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 16.00-CL-16054793 | [download]() |
 | 16.10-CL-15913292 | [download]() |
 | 16.20-CL-15987165 | [download]() |
-| 16.30-CL-16163563 | [download]() ; [download]() |
+| 16.30-CL-16163563 | [download]() |
 | 16.40-CL-16218553 | [download]() |
 | 16.50-CL-16579425 | [download]() |
 
@@ -211,9 +211,9 @@ I'm gonna drop all the fully analyzed IDA files right here
 | 17.10-CL-16745144 | [download]() |
 | 17.20-CL-16868155 | [download]() |
 | 17.21-CL-16967001 | [download]() |
-| 17.30-CL-17004569 | [download]() ; [download]() |
+| 17.30-CL-17004569 | [download]() |
 | 17.40-CL-17269705 | [download]() |
-| 17.50-CL-17388565 | [download]() ; [download]() ; [download]() ; [download]() ; [download]() |
+| 17.50-CL-17388565 | [download]() |
 
 # Season 18
 | Build | Download links |
