@@ -1,5 +1,3 @@
-# OGFN-Client-dump
-
 
 # Pre-BattleRoyale
 | Build | Download links |
