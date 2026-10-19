@@ -10,5 +10,11 @@
 | :--- | :--- |
 | 1.7.2-CL-3700114 | [download](https://mega.nz/file/YK1ViTSC#pR-nAnAAtJguSEBCEbEokiXjpLyI2VZdKevLaL82QkA) |
 
+# Season 1
+| Build | Download links |
+| :--- | :--- |
+| 1.8-CL-3724489 | [download](https://mega.nz/file/kbFj2CoJ#6dmEF7-gimZE2fbEsTpfWGxRrZbMOZSLGgdopy2Xc9o)  |
+
+
 
 Adding more builds soon
