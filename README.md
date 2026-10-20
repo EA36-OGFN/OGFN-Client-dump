@@ -16,6 +16,7 @@
 | 1.8-CL-3724489 | [download](https://mega.nz/file/kbFj2CoJ#6dmEF7-gimZE2fbEsTpfWGxRrZbMOZSLGgdopy2Xc9o)  |
 | 1.8.1-CL-3729133 | [download](https://mega.nz/file/FX8DwAgL#LC9VQBD8QbMVmiOJTp2KGxrM0oie_faBUhmBAiXv0-0) |
 | 1.8.2-CL-3741772 | [download](https://mega.nz/file/kH9kGLSK#8T7p8PcIewfn78BcSsmROhYdi-1ZxlsCmuExMPduIFU) |
+| 1.9-CL-3757339 | [download](https://mega.nz/file/4XtAwSgQ#9uyx5TgGtK6vZQJLX3KZISGahGbBGfJNm4rex8aNGoU) |
 
 
 Adding more builds soon
