@@ -20,5 +20,11 @@
 | 1.9.1-CL-3775276 | [download](https://mega.nz/file/Zb9wQRhA#Bq07GZvoFfFBFtgMLRrHGT39XkzCHFCXPqU4I7_qbB0) |
 | 1.10-CL-3790078 | [download](https://mega.nz/file/gOlynSCZ#gKkjv8d6RXafOr4TCK3D3DdmfakLMxuEf1efWdJuJI4) |
 
+# Season 2
+| Build | Download links |
+| :--- | :--- |
+| 1.11-CL-3807424 | [download](https://mega.nz/file/wPNmXJ4T#IpquxelCxmW2ZoLen3vUw6k2_D-HR6GdcNb7R2tikFo) |
+
+
 
 Adding more builds soon
