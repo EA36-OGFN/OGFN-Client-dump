@@ -24,6 +24,7 @@
 | Build | Download links |
 | :--- | :--- |
 | 1.11-CL-3807424 | [download](https://mega.nz/file/wPNmXJ4T#IpquxelCxmW2ZoLen3vUw6k2_D-HR6GdcNb7R2tikFo) |
+| 2.1.0-CL-3825894 | [download](https://mega.nz/file/RXEDnI4R#nXbbZ5HOcWJAZuUlBNZ3Yl6Rr8FVwZU6k9zXqzYQlhs) |
 
 
 
