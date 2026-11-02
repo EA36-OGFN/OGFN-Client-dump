@@ -28,6 +28,8 @@
 | 2.2.0-CL-3841827 | [download](https://mega.nz/file/kbElALgb#S-z04JNhyeLhYaIhJK-9ZIcMJgvVxIHs-FqOr3Xci_k) |
 | 2.3.0-CL-3847564 | [download](https://mega.nz/file/sOU3kZAD#U7sqHgPkwlkOixtoixOJqKWaraeFzBZyAIex9lMlDZY) |
 | 2.4.0-CL-3858292 | [download](https://mega.nz/file/UPt2BLqZ#4b1cfnQpUAD5TXBFGtYvmHQ17MCH-9WGWgl8Oe8RH5Q) |
+| 2.4.2-CL-3879410 | [download](https://mega.nz/file/BHU1kARQ#McSgML7yqAz9BVJ7i7-aMw5bHQCVjJz59TvcKxqYkkg) |
+
 
 
 
