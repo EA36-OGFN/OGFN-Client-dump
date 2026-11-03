@@ -35,6 +35,8 @@
 | Build | Download links |
 | :--- | :--- |
 | 3.0-CL-3901517 | [download](https://mega.nz/file/QZ8WjJra#RY5DvxlR5_nFHSdvWaCao4M_BkyeKS3q25X1tCm19II) |
+| 3.1-CL-3915963 | [download](https://mega.nz/file/1YUEGD6T#SYPrIolJ748yE7hHPrZNf80wtrf96aAvbkfQJXfXH84) |
+
 
 
 
