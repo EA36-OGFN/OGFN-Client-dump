@@ -31,6 +31,12 @@
 | 2.4.2-CL-3879410 | [download](https://mega.nz/file/BHU1kARQ#McSgML7yqAz9BVJ7i7-aMw5bHQCVjJz59TvcKxqYkkg) |
 | 2.5.0-CL-3889387 | [download](https://mega.nz/file/FWMUyI5Y#AzHBBoMBt70gB5ePcFKy4Oc54v6CAlfMsvFhRW4QVHs) |
 
+# Season 3
+| Build | Download links |
+| :--- | :--- |
+| 3.0-CL-3901517 | [download](https://mega.nz/file/QZ8WjJra#RY5DvxlR5_nFHSdvWaCao4M_BkyeKS3q25X1tCm19II) |
+
+
 
 
 
