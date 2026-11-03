@@ -37,6 +37,8 @@
 | 3.0-CL-3901517 | [download](https://mega.nz/file/QZ8WjJra#RY5DvxlR5_nFHSdvWaCao4M_BkyeKS3q25X1tCm19II) |
 | 3.1-CL-3915963 | [download](https://mega.nz/file/1YUEGD6T#SYPrIolJ748yE7hHPrZNf80wtrf96aAvbkfQJXfXH84) |
 | 3.1.1-CL-3917250 | [download](https://mega.nz/file/FVVykLzC#s8HrVIvsZVBwUKmTcbfZp8u96w4vmvX2Wod9U9jD0MU) |
+| 3.2-CL-3935073 | [download](https://mega.nz/file/0d02FLwB#KE1LdUXh-tC3A_DktZodgFCeOr9cXjs8bhEnm13ijWc) |
+
 
 
 
