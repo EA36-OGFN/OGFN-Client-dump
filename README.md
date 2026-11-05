@@ -43,6 +43,10 @@
 | 3.5.2-CL-4008490 | [download](https://mega.nz/file/QQNQAC5Q#DXblMK4FGNd7WbwNGfNqCy4NLDIdHI-czPr34SZiDBk) |
 | 3.6-CL-4019403 | [download](https://mega.nz/file/9UUU2TxI#05FsSEtsZFYeZK3A52DatQaxcQj5HtxDxbvJ7SdNUDU) |
 
+# Season 4
+| Build | Download links |
+| :--- | :--- |
+| 4.0-CL-4039451 | [download](https://mega.nz/file/ZY0QCQrA#Dmk0bIZ9EQz46ioD9In02QWfTcfCAeGT2PJ103p2v1Y) |
 
 
 
