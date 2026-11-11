@@ -72,6 +72,8 @@
 | :--- | :--- |
 | 6.00-CL-4395664 | [download](https://mega.nz/file/8ccSRYCT#HjISni0tVqXqF6ecvX9BJfGzcRdmm1x2EuiUGTTUgq4) |
 | 6.00-CL-4402180 | [download](https://mega.nz/file/EZdHmCoQ#WnxNWVRECrOqK5UW3TtpimoH4whv-RhG8kfTucqCz7I) |
+| 6.01-CL-4417689 | [download](https://mega.nz/file/cJdy3Q4I#ozlzNEnmWoighs1WauL9YRqSG5ysdn5ADx3d6wKFVY8) |
+
 
 
 
