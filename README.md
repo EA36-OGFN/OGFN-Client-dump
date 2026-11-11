@@ -71,6 +71,8 @@
 | Build | Download links |
 | :--- | :--- |
 | 6.00-CL-4395664 | [download](https://mega.nz/file/8ccSRYCT#HjISni0tVqXqF6ecvX9BJfGzcRdmm1x2EuiUGTTUgq4) |
+| 6.00-CL-4402180 | [download](https://mega.nz/file/EZdHmCoQ#WnxNWVRECrOqK5UW3TtpimoH4whv-RhG8kfTucqCz7I) |
+
 
 
 
