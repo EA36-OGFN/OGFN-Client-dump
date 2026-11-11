@@ -67,6 +67,12 @@
 | 5.40-CL-4352937 | [download](https://mega.nz/file/sQtjTbyK#sW4uhYa4zPLls8ROXhZ8B479upK5r9kvyuA7aHSkEV8) |
 | 5.41-CL-4363240 | [download](https://mega.nz/file/8UNjXT5T#UqwS4ny5SWU33ErK5npb-7suPRcx5N1KBGbNIFnBscQ) |
 
+# Season 6
+| Build | Download links |
+| :--- | :--- |
+| 6.00-CL-4395664 | [download](https://mega.nz/file/8ccSRYCT#HjISni0tVqXqF6ecvX9BJfGzcRdmm1x2EuiUGTTUgq4) |
+
+
 
 
 
