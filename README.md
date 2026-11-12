@@ -78,6 +78,8 @@
 | 6.02.1-CL-4461277 | [download](https://mega.nz/file/cM1ABALK#5-_MJCnp7MR7Tj7b7imufIAoHAdTSTzEejnKR3jn7c0) |
 | 6.10-CL-4464155 | [download](https://mega.nz/file/NZgERAaA#8L3BkOR6pn7Ee84l5ITCvaldKyNUPoWTCtYsw9s3hrE) |
 | 6.10.1-CL-4476098 | [download](https://mega.nz/file/5VxEAJKb#PZNTf8H4vcXW-zWXxigVKK1fWRuTBEAsO5q8Go_yt0w) |
+| 6.10.2-CL-4480234 | [download](https://mega.nz/file/MN5B1BrJ#3ihzGZP8PbQUxaJE8wpN7NcHiMXWvcnCkLA6-P1Mtto) |
+
 
 
 
