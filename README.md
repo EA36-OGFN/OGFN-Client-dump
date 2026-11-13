@@ -79,6 +79,7 @@
 | 6.10-CL-4464155 | [download](https://mega.nz/file/NZgERAaA#8L3BkOR6pn7Ee84l5ITCvaldKyNUPoWTCtYsw9s3hrE) |
 | 6.10.1-CL-4476098 | [download](https://mega.nz/file/5VxEAJKb#PZNTf8H4vcXW-zWXxigVKK1fWRuTBEAsO5q8Go_yt0w) |
 | 6.10.2-CL-4480234 | [download](https://mega.nz/file/MN5B1BrJ#3ihzGZP8PbQUxaJE8wpN7NcHiMXWvcnCkLA6-P1Mtto) |
+| 6.20-CL-4497486 |[there's a curse in this version] |
 | 6.21-CL-4526925 | [download](https://mega.nz/file/0cZk3BLQ#oF1uW3oHUXVcn0zXO_DjYKqx8wmlKwAY3MlCnlOCgNY) |
 | 6.22-CL-4543176 | [download](https://mega.nz/file/RJhRzL7L#Lii7Tk_sOZiuxSQZ-BMeTHhudN-K3LWBe9T-TZRIp3U) |
 | 6.30-CL-4573096 | [download](https://mega.nz/file/5dQGRCxL#144ySQxRXJlUs5JDzHfX9n1afqNwxadZ-ngaQfUY1lA) |
