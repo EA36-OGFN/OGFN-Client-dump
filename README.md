@@ -85,6 +85,12 @@
 | 6.30-CL-4573096 | [download](https://mega.nz/file/5dQGRCxL#144ySQxRXJlUs5JDzHfX9n1afqNwxadZ-ngaQfUY1lA) |
 | 6.31-CL-4573279 | [download](https://mega.nz/file/FZYAlLzY#mshzM6u81X5mSljpcm4QaE1ALINVOSPtgPHpZ-WPof0) |
 
+# Season 7
+| Build | Download links |
+| :--- | :--- |
+| 7.00-CL-4629139 | [download](https://mega.nz/file/VdBxmAbC#nLXpfT6B3_ehVR1uLySG6eE9NDjO1gnQnbO7oV7rgaY) |
+
+
 
 
 
