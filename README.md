@@ -91,6 +91,8 @@
 | 7.00-CL-4629139 | [download](https://mega.nz/file/VdBxmAbC#nLXpfT6B3_ehVR1uLySG6eE9NDjO1gnQnbO7oV7rgaY) |
 | 7.10-CL-4667333 | anyone who has this version dm me |
 | 7.20-CL-4727874 | [download](https://mega.nz/file/8co1gKDQ#aAmmV9fqWCkPF9DL-Zo0nQfmjZ-woAN2uTIUWc8JxY0) |
+| 7.40-CL-5046157 | [download](https://mega.nz/file/0BpyRT6B#wtuviX9WBdA1MrqC4KmYtfgsSEBkR4cCcw4zv7jA5Dw) |
+
 
 
 
