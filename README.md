@@ -97,6 +97,8 @@
 | Build | Download links |
 | :--- | :--- |
 | 8.00-CL-5203069 | [download](https://mega.nz/file/1EgzGBIC#pzuH2zOO18vsD32cVJJ-a80KyV7hTUGDwWn406uijY4) |
+| 8.20-CL-5625478 | [download](https://mega.nz/file/RBZwiAiA#BmNXI828qnk_AYCLhjiWxvwDV56OmJSzhPd5faz4Mxg) |
+
 
 
 
