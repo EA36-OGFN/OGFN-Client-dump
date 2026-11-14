@@ -93,6 +93,12 @@
 | 7.20-CL-4727874 | [download](https://mega.nz/file/8co1gKDQ#aAmmV9fqWCkPF9DL-Zo0nQfmjZ-woAN2uTIUWc8JxY0) |
 | 7.40-CL-5046157 | [download](https://mega.nz/file/0BpyRT6B#wtuviX9WBdA1MrqC4KmYtfgsSEBkR4cCcw4zv7jA5Dw) |
 
+# Season 8
+| Build | Download links |
+| :--- | :--- |
+| 8.00-CL-5203069 | [download](https://mega.nz/file/1EgzGBIC#pzuH2zOO18vsD32cVJJ-a80KyV7hTUGDwWn406uijY4) |
+
+
 
 
 
