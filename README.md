@@ -99,6 +99,8 @@
 | 8.00-CL-5203069 | [download](https://mega.nz/file/1EgzGBIC#pzuH2zOO18vsD32cVJJ-a80KyV7hTUGDwWn406uijY4) |
 | 8.20-CL-5625478 | [download](https://mega.nz/file/RBZwiAiA#BmNXI828qnk_AYCLhjiWxvwDV56OmJSzhPd5faz4Mxg) |
 | 8.30-CL-5793395 | [download](https://mega.nz/file/8UwRkSwb#XRIHnmbco1hxhRJKXP27xO2cTiyiVvrOXmKs3Kqf29A) |
+| 8.40-CL-6005771 | [download](https://mega.nz/file/ZAIT2bxT#E1cPht5GYwbcVPcda16nSGEVUAtZW0zvoYitIQ_zpEc) |
+
 
 
 
