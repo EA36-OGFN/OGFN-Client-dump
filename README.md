@@ -116,6 +116,12 @@
 | 9.40-CL-7315705 | [download](https://mega.nz/file/a4xlQaqA#J4f-xUjrhHawIoYTR1k47mBDslZrQG_iTYJeIHjl7LU) |
 | 9.41-CL-7609292 | [download](https://mega.nz/file/7kJHiSKD#nEJ09rgdtpRBAzzGaO8BhkcNseR8oR8JGGVLq0c1EmI) |
 
+# Season 10
+| Build | Download links |
+| :--- | :--- |
+| 10.00-CL-7658179 | [download](https://mega.nz/file/n9xTjZ5Z#6HguRCYKjqdLeZBzBLbvOwrAx0TeYCe63r-HfWBZwuw) |
+
+
 
 
 
