@@ -120,6 +120,8 @@
 | Build | Download links |
 | :--- | :--- |
 | 10.00-CL-7658179 | [download](https://mega.nz/file/n9xTjZ5Z#6HguRCYKjqdLeZBzBLbvOwrAx0TeYCe63r-HfWBZwuw) |
+| 10.00-CL-7704164 | [download](https://mega.nz/file/e8h2mKzD#rgRsWkJFBB9zzjlR5KZQYfBLGE3m_KSeBYxHMa65u3c) |
+
 
 
 
